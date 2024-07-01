@@ -1,0 +1,50 @@
+[
+  {
+    "scp": "scp - 001",
+    "name": "алый король",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Ee_0Sw56OIEUMUtSiHFki3NgM53ICXviag&s",
+    "type": "keter"
+  },
+  {
+    "scp": "scp - 231-1-6",
+    "name": "семь дев",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNWunNeWyRyn5drcSSsLh3_kuoX4BtV_DGQ&s",
+    "type": "keter",
+    "title": "Серия из семи девочек, обозначенных как SCP-231-1 до SCP-231-7, которые были беременны отпрысками Алого Короля. Процедура 110-Монтаук используется для предотвращения рождения этих отпрысков."
+  },
+  {
+    "scp": "SCP-2317",
+    "name": "дверь в другой мир",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-JvGqvNmg3AiEKwJkw_1rPAoQ4E6XKvv8w&s",
+    "type": "keter",
+    "title": "Существование или несуществование этой аномалии связано с концептуальными аспектами, которые могут быть ассоциированы с природой Алого Короля."
+  },
+  {
+    "scp":  "SCP-3930",
+    "name": "Крикун в структуре",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatJNyeT4H4wGhCLjiGwNHvt4K696h7w3I0w&s",
+    "type": "keter",
+    "title":"Существование или несуществование этой аномалии связано с концептуальными аспектами, которые могут быть ассоциированы с природой Алого Короля."
+  },
+  {
+    "scp": "SCP-999",
+    "name": "Щекоточный монстр",
+    "photo": "https://ih1.redbubble.net/image.4103821061.1459/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+    "type": "safe",
+    "title": "Аномалия, представляющая собой существо, способное вызывать счастье и радость. Считается возможным оружием против Алого Короля из-за его противоположной природы."
+  },
+  {
+    "scp": "SCP-2845",
+    "name": " Олень",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pCyudxIEeHYbAmraHRoCBdDvST5L8sielg&s",
+    "type": "keter",
+    "title":"Аномалия, известная как Олень, требует сложных ритуалов для сдерживания. В некоторых версиях мифологии он упоминается как один из подданных Алого Короля."
+  },
+  {
+    "scp": "SCP-3480",
+    "name": "Трагедия повешенного короля",
+    "photo": "https://i.redd.it/v7yquc4fgbez.png",
+    "type": "Euclid",
+    "title": "Описывает ритуальные практики и объекты, которые связаны с поклонением Алому Королю."
+  }
+]
